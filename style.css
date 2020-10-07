@@ -1,0 +1,253 @@
+html{
+    background-color: #EDF2C5;
+    
+    
+    height: 880px;
+    width: 1260px;
+
+}
+.auto{
+    margin-left:160px;
+}
+    
+
+
+header{
+    border-radius :3px;
+    background-color: #778A50;
+    width: 940px;
+    height: 44px;
+    display:flex;
+    align-items:center;
+    margin-top: 8px;
+  
+    
+}
+ul{
+   
+    padding: 16px 0px 16px 0px ;
+
+}
+li{
+    
+    color:#EDF2C5;
+    display: inline-block;
+    font-family:'Arial Black';
+    font-size:16px;
+    margin: 30px 30px 30px 30px ;
+   
+    text-align:left;
+    
+}
+
+h1{
+    font-family:'Arial Black';
+    color:#778A50;
+    font-size:44px;
+    margin-bottom:8px ;
+    margin-top: 53px;
+    margin-right: 0px;
+}
+h2{
+    font-family:'Arial Black'; 
+    color:#EDF2C5;;
+    font-size:16px;
+    padding: 0px 0px 0px 30px;
+    margin: 0px;
+    
+}
+.link{
+    list-style: none;
+    display: block;
+    color: #EDF2C5;
+    text-decoration: none;
+    font-size: 16px;
+}
+.hr{
+    position: absolute;
+    width: 414px;
+    height: 1px;
+    background-color: #7d7d7d;
+    margin: 74px 15px 65px 15px;
+}
+.contact{
+    font-size: 12px;
+    font-family: ArialMT ;
+    color: #7D7D7D;
+    background-color: #F7FBDA;
+    line-height: 1.33;
+    padding: 15px 15px 0px;
+    margin: 0px;
+}
+.contact1{
+    font-size: 12px;
+    font-family: ArialMT ;
+    color: #7D7D7D;
+    line-height:1.83;
+    padding: 16px 15px 0px 15px; 
+    margin: 0px;
+}
+.buttom{
+    font-family: 'Arial-BoldMT';
+    font-size:12pt;
+    color : #778A50;
+    display: flex;
+
+}
+.foot{
+    width: 1264px;
+    height: 60px;
+    background-color: #778A50 ;
+    display: flex;
+    justify-content: center; 
+    color:#EDF2C5;
+    font-size: 12px;
+    font-family: ArialMT;
+    text-align: center;
+    margin-top: 35px;
+    line-height: 60px;
+    position: absolute;
+    margin-left: -167px;
+    
+    
+    
+
+}
+
+footer{
+    position: absolute;
+
+    display: flex;
+}
+
+
+.top{
+    
+    display: flex;
+    flex-wrap: wrap ;
+    
+    position: absolute;
+  
+
+
+}
+.line{
+    position: absolute;
+    width: 1px;
+    height: 25px;
+    background-color: #778A50;
+    margin: -42px 0 0 808px;
+}
+
+.buttom1{
+    background-color:#EDF2C5;
+    border-radius : 3px;
+    width: 60px;
+    text-align: center;
+    height: 25px;
+    border : 1px solid #778A50;
+    display: flex;
+    justify-content: center; 
+    line-height: 25px;
+    position: absolute;
+    order:3;
+    margin:-42px 10px 17px 818px ;
+    
+    
+}
+.buttom2{
+    background-color:#EDF2C5;
+    border-radius : 3px;
+    width: 50px;
+    height: 25px;
+    border : 1px solid #778A50;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    line-height: 25px;
+    position: absolute;
+    order:4;
+    margin:-42px 10px 17px 888px ;
+   }
+
+
+.pumpkin{
+    height: 448px;
+    width: 940px;
+    padding-top:20px;
+    padding-bottom: 30px;
+    
+}
+.fb{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    order:1;
+    margin:-41px 10px 35px 738px ;
+}
+.ig{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    order:2;
+    margin:-41px 10px 17px 773px ;
+}
+ 
+.title2{
+    width: 940px;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+
+
+}
+.two,.three{
+    border-radius :3px;
+    background-color: #778A50;
+    width: 445px;
+    height: 45px;
+    display:flex;
+    align-items:center;
+    
+   
+    
+}
+.four{
+    width: 940px;
+    display: flex;
+    justify-content: space-between; 
+    padding: 0px;
+}
+
+
+
+.pepper{
+    height: 140px;
+    width: 140px;
+    padding-top: 15px;
+    padding-right: 0px;
+}
+.carrot{
+    height: 140px;
+    width: 140px;
+    padding: 15px 6px 0px 6px;
+
+
+}
+.corn{
+    height: 140px;
+    width: 140px;
+    padding-top: 15px;
+    padding-left: 0px;
+
+}
+.text{
+    width: 445px;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+    margin-top:15px ;
+    background-color: #F7FBDA; 
+
+}
